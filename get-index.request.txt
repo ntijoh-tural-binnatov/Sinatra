@@ -1,0 +1,5 @@
+GET /fruits?type=bananas&minrating=4 HTTP/1.1 \n
+Host: fruits.com \n
+User-Agent: ExampleBrowser/1.0 \n
+Accept-Encoding: gzip, deflate \n
+Accept: */* \n
